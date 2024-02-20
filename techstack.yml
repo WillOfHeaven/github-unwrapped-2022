@@ -1,0 +1,279 @@
+repo_name: WillOfHeaven/github-unwrapped-2022
+report_id: dc6c6e23b0567a1b342df61eb0921657
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-20T10:08:35+00:00'
+requested_by: JonnyBurger
+provider: github
+branch: main
+detected_tools_count: 21
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022
+  detection_source: Repo Metadata
+- name: Next.js
+  description: A small framework for server-rendered universal JavaScript apps
+  website_url: https://nextjs.org/
+  version: 12.3.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-11-19 10:42:59.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-11-19 10:42:59.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-08 13:56:29.000000000 Z
+- name: Remotion
+  description: Create videos programmatically in React
+  website_url: https://www.remotion.dev/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/25121/default_a54ab76551f4864788063b81757990da7e5c33ba.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-18 20:43:59.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  version: 4.12.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-13 14:44:26.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-08 13:56:29.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-11-19 10:42:59.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022
+  detection_source: Repo Metadata
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-16 12:36:23.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-11-19 10:42:59.000000000 Z
+- name: Poli
+  description: An easy-to-use SQL reporting application
+  website_url: https://github.com/shzlw/poli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/11232/no-img-open-source.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-11-19 10:42:59.000000000 Z
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-14 16:37:40.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 17.0.52
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-14 16:37:40.000000000 Z
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 12.3.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-13 12:42:14.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-14 16:37:40.000000000 Z
+- name: polished
+  description: A lightweight toolset for writing styles in Javascript
+  package_url: https://www.npmjs.com/polished
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16665/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-08 13:56:29.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-08 13:56:29.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/WillOfHeaven/github-unwrapped-2022/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jonny Burger
+  last_updated_on: 2022-12-14 16:37:40.000000000 Z
